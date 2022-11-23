@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyDietApp</string>
+    <string name="mainString">오늘은 무엇을 드셨나요?</string>
+</resources>
