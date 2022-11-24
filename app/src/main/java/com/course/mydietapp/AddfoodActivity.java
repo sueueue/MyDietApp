@@ -9,10 +9,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class AddfoodActivity extends AppCompatActivity {
     private RatingBar ratingBar;
-    private EditText add;
-    private EditText count;
-    private TimePicker time;
-    private EditText place;
+    EditText add;
+    EditText count;
+    TimePicker time;
+    EditText place;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
